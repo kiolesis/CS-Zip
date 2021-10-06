@@ -1,3 +1,7 @@
+using System;
+using System.IO;
+using System.IO.Compression;
+
 static void Wypakuj() {
 
 	string zipPath = @"C:\USER\Desktop\plik.zip";
